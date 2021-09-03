@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj": {}
+    "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj": {
+    "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj",
+        "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj",
         "projectName": "MISA.AMIS.API",
-        "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj",
+        "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.API\\MISA.AMIS.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.API\\obj\\",
+        "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj": {
-                "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj"
+              "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj": {
+                "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj"
               },
-              "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj": {
-                "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj"
+              "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj": {
+                "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj": {
+    "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
+        "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
         "projectName": "MISA.AMIS.Core",
-        "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
+        "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\obj\\",
+        "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj": {
+    "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj",
+        "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj",
         "projectName": "MISA.AMIS.Infrastructure",
-        "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj",
+        "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Infrastructure\\MISA.AMIS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Infrastructure\\obj\\",
+        "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,8 +168,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj": {
-                "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj"
+              "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj": {
+                "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj"
               }
             }
           }

@@ -185,7 +185,7 @@ namespace MISA.AMIS.Infrastructure.Repositories
         public MISAEntity GetById(Guid entityId)
         {
             //thông tin kết nối
-            var sqlCommand = $"SELECT * FROM {_className} WHERE {_className}Id = @EntityIdParam";
+            var sqlCommand = $"SELECT * FROM {_className}_view WHERE {_className}_view.{_className}Id = @EntityIdParam";
             DynamicParameters parameters = new DynamicParameters();
             parameters.Add("@EntityIdParam", entityId);
 

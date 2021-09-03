@@ -55,7 +55,7 @@ namespace MISA.AMIS.Core.Entities
         /// Email
         /// </summary>
         /// CreatedBy:DVLong(27/8/2021)
-        [MISARequired,MISAEmail]
+        [MISAEmail]
         public string Email { get; set; }
 
         /// <summary>
@@ -91,7 +91,15 @@ namespace MISA.AMIS.Core.Entities
         /// Id phòng ban
         /// </summary>
         /// CreatedBy:DVLong(27/8/2021)
+        [MISARequired]
         public Guid? DepartmentId { get; set; }
+
+        /// <summary>
+        /// Tên phòng ban
+        /// </summary>
+        /// CreatedBy:DVLong(27/8/2021)
+        [MISANotMap]
+        public string DepartmentName { get; set; }
 
         /// <summary>
         /// Tên vị tri

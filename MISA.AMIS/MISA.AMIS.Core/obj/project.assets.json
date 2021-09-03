@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
+      "projectUniqueName": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
       "projectName": "MISA.AMIS.Core",
-      "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
+      "projectPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\MISA.AMIS.Core.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\MISA.AMIS\\MISA.AMIS.Core\\obj\\",
+      "outputPath": "D:\\New folder\\thực tập\\finalTest-v1\\Test_Misa_Amis\\MISA.AMIS\\MISA.AMIS.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
